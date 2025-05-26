@@ -14,6 +14,7 @@ Once you installed the package, run the command `mlflow --version` and check the
 
 What's the version that you have?
 
+_mlflow, version 2.22.0_
 
 
 ## Q2. Download and preprocess the data
@@ -42,7 +43,7 @@ How many files were saved to `OUTPUT_FOLDER`?
 
 * 1
 * 3
-* 4
+* _4_
 * 7
 
 
